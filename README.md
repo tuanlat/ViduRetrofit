@@ -2,4 +2,4 @@
 
 - lấy dữ liệu Json từ địa chỉ sau: https://api.github.com/search/users?q=tuanlat
 - kết quả:
-<img src="anh01.png">
+<img src="20190924_160130.png">
